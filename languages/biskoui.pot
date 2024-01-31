@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"  # Language code for the template, usually the default language
+
+msgid "Biskoui integration"
+msgstr ""
+
+msgid "In order to integrate biskoui, you simply need to inform your domain’s integration key below."
+msgstr ""
+
+msgid "Integration key"
+msgstr ""
+
+msgid "Where to find the key ?"
+msgstr ""
+
+msgid "See instructions"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
