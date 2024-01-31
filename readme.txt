@@ -1,12 +1,13 @@
 ﻿=== biskoui ===
-Contributors: Chewy Labs Sàrl
-Tags: consent management, cookie management, privacy
-Requires at least: 3.3
-Tested up to: 6.4.2
-Stable tag: 1.0
-License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl.html
-Languages: English, french, german
+* Contributors: Chewy Labs Sàrl
+* Tags: consent management, cookie management, privacy
+* Requires at least: 3.3
+* Tested up to: 6.4.2
+* Stable tag: 1.0
+* License: GPLv3
+* License URI: https://www.gnu.org/licenses/gpl.html
+* Plugin URL: https://github.com/biskoui/biskoui-wordpress-plugin
+* Languages: English, french, german
 
 Easily connects your biskoui consent management platform to your WordPress site
 
